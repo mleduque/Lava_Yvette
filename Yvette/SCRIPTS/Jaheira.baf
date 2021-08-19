@@ -1,0 +1,12 @@
+IF
+InParty(Myself)
+!See([ENEMY])
+CombatCounter(0)
+Global("YvetteRomanceTalk","GLOBAL",3)
+Global("YvetteRomanceActive","GLOBAL",1)
+Global("YvetteJaheiraConflic","GLOBAL",0)
+GlobalLT("JaheiraRomanceActive","GLOBAL",4)
+THEN
+RESPONSE #100
+StartDialog("JaheiraJ",Player1)
+END

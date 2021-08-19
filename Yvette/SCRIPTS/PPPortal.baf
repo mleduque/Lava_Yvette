@@ -1,0 +1,11 @@
+IF
+CombatCounter(0)
+InParty("YxYve")
+Range("YxYve",15)
+Global("GeniePlat12","GLOBAL",0)
+Global("YvetteSpellhold","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("GeniePlat12","GLOBAL",1)
+RealSetGlobalTimer("GeniePlate12Time","GLOBAL",2)
+END

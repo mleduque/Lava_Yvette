@@ -1,0 +1,82 @@
+2DA                    V1.0
+multig
+                       POST_DIALOG_FILE       JOIN_DIALOG_FILE       DREAM_SCRIPT_FILE      25POST_DIALOG_FILE     25JOIN_DIALOG_FILE     25DREAM_SCRIPT_FILE    25OVERRIDE_SCRIPT_FILE
+AERIE                  AERIEP                 AERIEJ                 AERIED                 AERIE25P               AERIE25J               AERIE25D               aeri25
+ANOMEN                 ANOMENP                ANOMENJ                ANOMEND                ANOME25P               ANOME25J               ANOME25D               anom25
+CERND                  CERNDP                 CERNDJ                 CERNDD                 CERND25P               CERND25J               CERNDD                 cern25
+EDWIN                  EDWINP                 EDWINJ                 EDWIND                 EDWIN25P               EDWIN25J               EDWIND                 edwi25
+HAERDALIS              HAERDAP                HAERDAJ                HAERDAD                HAERD25P               HAERD25J               HAERDAD                haer25
+IMOEN2                 IMOEN2P                IMOEN2J                IMOEN2D                IMOEN25P               IMOEN25J               IMOEN2D                imoe25
+JAHEIRA                JAHEIRAP               JAHEIRAJ               JAHEIRAD               JAHEI25P               JAHEI25J               JAHEI25D               jahe25
+JAN                    JANP                   JANJ                   JAND                   JAN25P                 JAN25J                 JAND                   jan25
+KELDORN                KELDORP                KELDORJ                KELDORD                KELDO25P               KELDO25J               KELDORD                keld25
+KORGAN                 KORGANP                KORGANJ                KORGAND                KORGA25P               KORGA25J               KORGAND                korg25
+MAZZY                  MAZZYP                 MAZZYJ                 MAZZYD                 MAZZY25P               MAZZY25J               MAZZYD                 mazz25
+MINSC                  MINSCP                 MINSCJ                 MINSCD                 MINSC25P               MINSC25J               MINSCD                 mins25
+NALIA                  NALIAP                 NALIAJ                 NALIAD                 NALIA25P               NALIA25J               NALIAD                 nali25
+VALYGAR                VALYGARP               VALYGARJ               VALYGARD               VALYG25P               VALYG25J               VALYGARD               valy25
+VICONIA                VICONIP                VICONIJ                VICOND                 VICON25P               VICON25J               VICON25D               vico25
+YOSHIMO                YOSHP                  YOSHJ                  YOSHD                  YOSHP                  YOSHJ                  YOSHD                  yosh25
+TTXAN                  TTXANP                 TTXANJ                 TTXAND                 TTXANP                 TTXANJ                 TTXAND                 ***
+TTBRAN                 TTBRANP                TTBRANJ                TTBRAND                TTBRANP                TTBRANJ                TTBRAND                ***
+TTIMOEN                TTIMOENP               TTIMOENJ               TTIMOEND               TTIMOENP               TTIMOENJ               TTIMOEND               ***
+TTJAHEIR               TTJAHEIP               TTJAHEIJ               TTJAHEID               TTJAHEIP               TTJAHEIJ               TTJAHEID               ***
+TTMINSC                TTMINSCP               TTMINSCJ               TTMINSCD               TTMINSCP               TTMINSCJ               TTMINSCD               ***
+SAREVOK                SAREV25P               SAREV25J               SAREV25D               SAREV25P               SAREV25J               SAREV25D               ***
+IDIOT01                IDIOTP                 IDIOTP                 ***                    IDIOTP                 IDIOTP                 ***                    ***
+RASAAD                 RASAADP                RASAADJ                RASAADD                RASAA25P               RASAA25J               RASAA25D               RASA25
+WILSON                 WILSONP                WILSONJ                WILSOND                WILSO25P               WILSO25J               WILSO25D               WILSON25
+DORN                   DORNP                  DORNJ                  DORND                  DORN25P                DORN25J                DORN25D                DORN25
+OHHFAK                 OHHFAK                 OHHFAK                 OHHFAKD                ****                   ****                   ****                   OHHFAK25
+HEXXAT                 HEXXATP                HEXXATJ                HEXXATD                HEXXA25P               HEXXA25J               HEXXA25D               HEXXA25
+NEERA                  NEERAP                 NEERAJ                 NEERAD                 NEERA25P               NEERA25J               NEERA25D               NEER25
+DSBARDO                BARDOP                 BARDOJ                 ***                    ***                    ***                    ***                    ***
+DSBUB                  BUBP                   BUBJ                   ***                    ***                    ***                    ***                    ***
+CONCHOBHAIR            CONCHOP                CONCHOJ                ***                    ***                    ***                    ***                    ***
+CUCHOINNEACH           CUCHOINP               CUCHOINJ               ***                    ***                    ***                    ***                    ***
+FERTHGIL               FERTHP                 FERTHJ                 ***                    ***                    ***                    ***                    ***
+JETLAYA                JETLAP                 JETLAJ                 ***                    ***                    ***                    ***                    ***
+KEIRIA                 KEIRIP                 KEIRIJ                 ***                    ***                    ***                    ***                    ***
+SKEEZER                SKEEZP                 SKEEZJ                 ***                    ***                    ***                    ***                    ***
+THORFINN               THORFP                 THORFJ                 ***                    ***                    ***                    ***                    ***
+C#Ajantis 	C#AjanP 	C#AjanJ 	C#AjanD 	C#Aja25P 	C#Aja25J 		C#Aja25D 	C#Ajan25
+RH#ISRA RH#ISRAP RH#ISRAJ RH#ISRAD
+O#XAN        O#XANP             O#XANJ            O#XAND             O#XAN25P             O#XAN25J             O#XAN25D       O#XAN25S
+rh#isra2 rh#isrp rh#isrj rh#isrd rh#is25p rh#is25j rh#is25d rh#is25
+LK#YESLK LK#YESP LK#YESJ LK#YESD LK#YE25P LK#YE25J LK#YE25D LK#YES25
+M#AMBER      M#AMBERP           M#AMBERJ          M#AMBERD       M#AMB25P           M#AMB25J              M#AMB25D              m#amb25
+L#Fou L#FouP L#FouJ L#FouD L#Fou25P L#Fou25J L#Fou25D L#Fou25
+l0will l0willP l0willJ l0willD l0wil25P l0wil25J l0wil25D l0wil25
+C0Paina        C0PainaP             C0PainaJ            C0PainaD             C0Pai25P             C0Pai25J             C0Pai25D       C0Pai25S
+C0Sirene        C0Sire2P             C0Sire2J            C0Sire2D             C0Sir25P             C0Sir25J		C0Sir25D		C0Sire25
+C#Brage 	C#BrageP 	C#BrageJ 	C#BrageD 	C#BrageP 	C#BrageJ 		C#Brg25D 	C#Brag25
+C#Solaufein 	C#SolauP 	C#SolauJ 	C#SolauD 	C#SolauP 	C#SolauJ 		C#SolauD 	C#Solau
+SELENCE      SELENCEP           SELENCEJ          ***            ***                ***                   ***                   ***
+CHARLOTT     CHARLOTP           CHARLOTJ          ***            ***                ***                   ***                   ***
+BOLIVAR      BOLIVARP           BOLIVARJ          ***            ***                ***                   ***                   ***
+TOMASTM      TOMASTOP           TOMASTOJ          ***            ***                ***                   ***                   ***
+Wulfg2       Wulfg2P            Wulfg2J           ***           Wulfg2P            Wulfg2J         ***           ***
+Reg2         Reg2P              Reg2J             ***           Reg2P              Reg2J           ***           ***
+Driz2        Driz2P             Driz2J            ***           Driz2P             Driz2J          ***           ***
+Brue2        Brue2P             Brue2J            ***           Brue2P             Brue2J          ***           ***
+Catt2        Catt2P             Catt2J            ***           Catt2P             Catt2J          ***           ***
+Enter2       Enter2P            Enter2J           ***           Enter2P            Enter2J         ***           ***
+Jarlax2      Jarlax2P           Jarlax2J          ***           Jarlax2P           Jarlax2J        ***           ***
+Tapio        TapioP             TapioJ            ***           TapioP             TapioJ          ***           ***
+Randall      RandallP           RandallJ          ***           RandallP           RandallJ        ***           ***
+Alissa1      Alissa1P           Alissa1J          ***           Alissa1P           Alissa1J        ***           ***
+Mordrg       MordrgP            MordrgJ           ***           MordrgP            MordrgJ         ***           ***
+QI#Mi QI#MIP QI#MIJ QI#MiD QI#M25P QI#M25J QI#M25D QI#M25S
+QI#Ela QI#ElaP QI#ELAJ QI#ElaD QI#E25P QI#E25J QI#E25D QI#E25S
+XULAYE LK#XULP LK#XULJ LK#XULD
+O#Bran        O#BranP             O#BranJ            O#BranD             O#Bra25P             O#Bra25J             O#Bra25D       O#Bra25S
+C0Aura        C0AuraP	C0AuraJ	C0AuraD
+Nephele LK#NEPP LK#NEPJ LK#NEPD LK#NE25P LK#NE25J LK#NE25D LK#NE25
+X3mily        X3milyP	X3milyJ X3milyD
+X3Helga X3HelgaP X3HelgaJ X3HelgaD
+X3Kale X3KaleP X3KaleJ X3KaleD
+X3Rec X3RecP X3RecJ X3RecD
+X3VIEN X3VienP X3VienJ X3vienD
+X3Emi        X3EmiP             X3EmiJ            X3EmiD             X3Emi25P             X3Emi25J		X3Emi25D		X3Emi25
+X3Reb        X3RebP             X3RebJ            X3RebD             X3Reb25P             X3Reb25J		X3Reb25D		X3Reb25
+L3Petsy L3PetsyP L3PetsyJ L3PetsyD L3Pet25P L3Pet25J L3Pet25D L3Pet25

@@ -1,0 +1,21 @@
+IF
+  Global("StartEndBios","AR6200",1)
+  InParty("YxYve")
+  Global("YveBioEnd","GLOBAL",0)
+  Global("YvetteEpilogueSet","GLOBAL",1)
+THEN
+  RESPONSE #100
+   SetGlobal("YveBioEnd","GLOBAL",1)
+   TextScreen("YveEp")
+END 
+
+IF
+  Global("StartEndBios","AR6200",1)
+  InParty("YxYve")
+  Global("YveBioEnd","GLOBAL",0)
+  Global("YvetteEpilogueSet","GLOBAL",5)
+THEN
+  RESPONSE #100
+   SetGlobal("YveBioEnd","GLOBAL",1)
+   TextScreen("YveEp2")
+END 

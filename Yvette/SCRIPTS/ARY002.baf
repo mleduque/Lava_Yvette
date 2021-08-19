@@ -1,0 +1,87 @@
+IF
+Exists(Player1)
+!Global("YxGabriel","ARY002",1)
+THEN
+RESPONSE #100
+CreateCreature("YxGabr",[446.309],3)
+SetGlobal("YxGabriel","ARY002",1)
+ActionOverride("YxGabr",StartDialogueNoSet(Player1))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002","YxYve")
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteRomanceActive","GLOBAL",1)
+Global("YvetteLeaveInNightmare","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("YvetteLeaveInNightmare","GLOBAL",1)
+ActionOverride("YxYve",LeaveParty())
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player1)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+THEN
+RESPONSE #100
+ActionOverride(Player1,LeaveAreaLUA("AR1512","",[310.541],0))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player2)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+!Kit(Player2,YxKit)
+THEN
+RESPONSE #100
+ActionOverride(Player2,LeaveAreaLUA("AR1512","",[320.540],0))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player3)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+!Kit(Player3,YxKit)
+THEN
+RESPONSE #100
+ActionOverride(Player3,LeaveAreaLUA("AR1512","",[310.530],0))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player4)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+!Kit(Player4,YxKit)
+THEN
+RESPONSE #100
+ActionOverride(Player4,LeaveAreaLUA("AR1512","",[320.520],0))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player5)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+!Kit(Player5,YxKit)
+THEN
+RESPONSE #100
+ActionOverride(Player5,LeaveAreaLUA("AR1512","",[330.530],0))
+Continue()
+END
+
+IF
+AreaCheckObject("ARY002",Player6)
+Global("YvetteSpellhold","GLOBAL",5)
+Global("YvetteToldToGo","GLOBAL",1)
+!Kit(Player6,YxKit)
+THEN
+RESPONSE #100
+ActionOverride(Player6,LeaveAreaLUA("AR1512","",[300.540],0))
+Continue()
+END

@@ -1,0 +1,12 @@
+IF
+InParty(Myself)
+!See([ENEMY])
+CombatCounter(0)
+AreaCheck("AR1512")
+Global("YvetteRomanceActive","GLOBAL",1)
+GlobalGT("YvetteToldToGo","GLOBAL",0)
+Global("YvetteImoenReaction","GLOBAL",0)
+THEN
+RESPONSE #100
+StartDialog("Imoen2J",Player1)
+END

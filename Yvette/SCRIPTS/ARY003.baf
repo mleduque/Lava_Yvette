@@ -1,0 +1,25 @@
+IF
+Global("YvetteGabrielFight","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("YxGabr2",[889.530],3)
+ActionOverride("YxGabr2",Enemy())
+SetGlobal("YvetteGabrielFight","GLOBAL",1)
+GiveItemCreate("YxBACK","YxGabr2",1,0,0)
+GiveItemCreate("YxJour","YxGabr2",1,0,0)
+PlaySound("YxBat")
+END
+
+IF
+Dead("YxGabr2")
+Global("YveCB","GLOBAL",1)
+THEN
+RESPONSE #100
+SetGlobal("YveCB","GLOBAL",2)
+ActionOverride(Player1,LeaveAreaLUA("AR1514","",[598.636],0))
+ActionOverride(Player2,LeaveAreaLUA("AR1514","",[588.646],0))
+ActionOverride(Player3,LeaveAreaLUA("AR1514","",[598.656],0))
+ActionOverride(Player4,LeaveAreaLUA("AR1514","",[590.626],0))
+ActionOverride(Player5,LeaveAreaLUA("AR1514","",[605.630],0))
+ActionOverride(Player6,LeaveAreaLUA("AR1514","",[575.631],0))
+END

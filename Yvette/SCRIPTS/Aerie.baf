@@ -1,0 +1,31 @@
+IF
+InParty(Myself)
+!See([ENEMY])
+CombatCounter(0)
+GlobalGT("YvetteRomanceTalk","GLOBAL",10)
+Global("YvetteRomanceActive","GLOBAL",1)
+Global("YvetteAerieConflic","GLOBAL",0)
+OR(2)
+Global("AerieRomanceActive","GLOBAL",1)
+Global("AerieRomanceActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("YvetteAerieConflic","GLOBAL",1)
+RealSetGlobalTimer("YvetteAerieConTime","GLOBAL",1800)
+END
+
+IF
+InParty(Myself)
+!See([ENEMY])
+CombatCounter(0)
+RealGlobalTimerExpired("YvetteAerieConTime","GLOBAL")
+GlobalGT("YvetteRomanceTalk","GLOBAL",10)
+Global("YvetteRomanceActive","GLOBAL",1)
+Global("YvetteAerieConflic","GLOBAL",1)
+OR(2)
+Global("AerieRomanceActive","GLOBAL",1)
+Global("AerieRomanceActive","GLOBAL",2)
+THEN
+RESPONSE #100
+StartDialog("AerieJ",Player1)
+END

@@ -1,0 +1,21 @@
+IF
+Exists(Player1)
+!Global("YxExist","AR0700",1)
+THEN
+RESPONSE #100
+CreateCreature("YxOld",[3075.1841],3)
+SetGlobal("YxExist","AR0700",1)
+Continue()
+END
+
+IF
+Exists(Player1)
+InParty("YxYve")
+Global("YvetteEmily","GLOBAL",1)
+!Global("YxEmilyExist","AR0700",1)
+THEN
+RESPONSE #100
+SetGlobal("YxEmilyExist","AR0700",1)
+CreateCreature("YxEmi",[3075.1841],3)
+Continue()
+END

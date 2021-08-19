@@ -1,0 +1,236 @@
+@0    = ~Yvette Romance - BG2 Romance Character~
+@1    = ~Heartwarder of sune~
+@2    = ~Heartwarder of Sune~
+@3    = ~HEARTWARDER OF SUNE: Heartwarders of Sune are clerics who worship Lady Firehair - goddess of beauty, love and passion. Heartwarders are known for their beauty and intellect. Sune gives her worshippers special powers from her domain - Evergold. It is believed that only women may serve Lady Firehair, but the truth is that there are men who serve Sune. These priests are known for their beautiful appearance. They focus on the protection of beauty under many different aspects. Because of Sune's love of joy and distaste for violence many of the abilities learned and used by heartwarders avoid direct harm, instead charming opponents or healing allies.
+
+ADVANTAGES:
+
+-May cast "Lips of Rapture" once a day. It provides one ally 10% magical protection, although there is 5% chance that this spell will also cause berserk to target. Both protection and possible berserk lasts 45 seconds.
+-At level 12 is given "Sune's Kiss Prayer" ability, which works as "Cloak of Fear" spell.
+-At level 14 is given "Siren Voice" ability, which can charm person or mammal for a short time.
+-At level 16 is given "Emotional Armour" ability, which cause Heartwarder 10 HP damage, but gives target 30% non-cumultative resistance to all kind of phisical attacks. Casters saving throw (vs. Death -2) for reduction to 5 HP damage. Effect last 50 seconds.
+
+DISADVANTAGES:
+
+-Can be only of neutral good or chaotic good alignment.
+-Must be elf, half-elf or human.
+-Due to lack of fighter's training suffers -1 damage penalty.
+~
+@4    = ~Lips of Rapture~
+@5    = ~Sune's Kiss Prayer~
+@6    = ~Siren Voice~
+@7    = ~Emotional Armour~
+@8    = ~Heartwarder suffers -1 damage penalty~
+@9    = ~Yvette~
+@10   = ~When asked about past, YVETTE gives you a troubled look. There is something really strange about her past. As you both know, Yvette used to be an enchanted portrait. After a few talks, she changed into a living woman. She asked you if she could join your party since she has nowhere to go.~
+@11   = ~We should run! Come! We have to leave this place immediately!~ [Yvet001]
+@12   = ~I'm sure this was the best decision you could make, dear lord.~ [Yvet002]
+@13   = ~Well, I'm not sure we are helping anyone with that kind of behaviour. It can get us into trouble.~ [Yvet003]
+@14   = ~I warn you, sir - stop this behavior!~ [Yvet004]
+@15   = ~Enough. I can't travel with someone like that.~ [Yvet005]
+@16   = ~Well, that is quite a new experience for me, but I shall give it a try, good sir.~ [Yvet006]
+@17   = ~I'm tired. Shouldn't we be looking for a place to rest?~ [Yvet007]
+@18   = ~(Mumbles some tune.) Well, isn't it time to move on?~ [Yvet008]
+@19   = ~For Sune!~ [Yvet009]
+@20   = ~I shall not lose!~ [Yvet010]
+@21   = ~For beauty!~ [Yvet011]
+@22   = ~I won't fail!~ [Yvet012]
+@23   = ~I promise - you shall not survive any longer!~ [Yvet013]
+@24   = ~Ah!~ [Yvet014]
+@25   = ~No... not again... Sune...~ [Yvet015]
+@26   = ~Protect me! I need a moment to cast healing spell on myself!~ [Yvet016]
+@27   = ~Isn't this place marvelous?~ [Yvet017]
+@28   = ~Hmm, there's a lot of people in here. I think I didn't visit that many busy places recently in the past.~ [Yvet018]
+@29   = ~This place can't be a safe one. Lady Firehair, keep your guard upon us.~ [Yvet019]
+@30   = ~Isn't it a fair day today? Lathander should be proud of it!~ [Yvet020]
+@31   = ~I love stargazing, you know?~ [Yvet021]
+@32   = ~Yes, my lord?~ [Yvet022]
+@33   = ~I'm here, waiting for you commands.~ [Yvet023]
+@34   = ~I am still here. (Smile.)~ [Yvet024]
+@35   = ~I'm eager to help.~ [Yvet025]
+@36   = ~Mhm?~ [Yvet026]
+@37   = ~What's your need, lord?~ [Yvet027]
+@38   = ~Consider it done!~ [Yvet028]
+@39   = ~Well, that shouldn't be a hard task to complete.~ [Yvet029]
+@40   = ~No problem!~ [Yvet030]
+@41   = ~I shall!~ [Yvet031]
+@42   = ~Fair for me, sir.~ [Yvet032]
+@43   = ~If there's a reason...~ [Yvet033]
+@44   = ~Alright.~ [Yvet034]
+@45   = ~Hm, you know this whole adventuring is a nice experience. It's quite enjoyable, to be honest.~ [Yvet035]
+@46   = ~Lovely!~ [Yvet036]
+@47   = ~Hey! I didn't know I could do that!~ [Yvet037]
+@48   = ~Missed again!~ [Yvet038]
+@49   = ~We should look for another way to attack! This one doesn't work!~ [Yvet039]
+@50   = ~I can't carry that much.~ [Yvet040]
+@51   = ~I lost my spell. Guard me, I shall prepare another one!~ [Yvet041]
+@52   = ~It's done. Now we shall wait, good sir.~ [Yvet042]
+@53   = ~Alright, I'm hidden. What shall I do now?~ [Yvet043]
+@54   = ~That's something quite extra-ordinary.~ [Yvet044]
+@55   = ~Old woman~
+@56   = ~Gabriel~
+@57   = ~Gabriel the Hopereaper~
+@58   = ~Ssaro~
+@59   = ~Drawing~
+@60   = ~This is the portrait of a young lady, perhaps in her teens. She is smiling, with round, beautiful eyes and flawless skin. The parchment is old and slightly faded. When you look at it, you have a strange feeling - as if the lines of the drawing were moving gently. There is one line written under the portrait: "For my Yvette".
+
+Weight: 0 lbs~
+@61   = ~Wild Strawberries~
+@62   = ~These are strawberries given to you by Yvette. They have a sweet scent and nice red color.
+Weight: 0 lbs~
+@63   = ~Burning Actress~
+@64   = ~This is Yvette's personal armor. She usually wears it when traveling. It is made of dyed red leather. Magical runes grace the inner shell.
+
+STATISTICS:
+
+Equipped abilities:
+  Protection from Blindness
+  +1 Charisma bonus
+  +15 Lore bonus
+
+Armour Class Bonus: 6
+Weight: 6 lbs
+Usable by:
+  Yvette~
+@65   = ~Dayrose~
+@66   = ~This staff is the favorite weapon of the Heartwarder of Sune, Yvette. The staff is a magical weapon, but its past is unknown. There is a small symbol of a rose carved on the staff. It is made of solid wood.
+
+STATISTICS:
+
+Combat abilities:
+  Every successful hit has a 20% chance to lower victim's AC by 1 for 45 seconds. Save vs. breath weapons negates this effect.
+  Regenerates 1 HP every 12 seconds.
+  +2 save vs. spells
+
+THAC0: +2
+Damage: 1D6+2
+Damage type: Crushing
+Speed factor: 1
+Weight: 3 lbs
+Profiency type: Quarterstaff
+Type: 2-handed
+Usable by:
+  Yvette~
+@67   = ~Daydreamer~
+@68   = ~This bow is another favorite weapon of the Heartwarder of Sune, Yvette. It is made of fine wood and a perfectly taut string. It seems to be well made, but it is still not as deadly as a longbow.
+
+STATISTICS:
+
+Combatabilities:
+  Does not need ammunition
+
+Damage: 1D4
+Damage type: Piercing
+Weight: 2 lbs
+Speed factor: 5
+Profiency type: Shortbow
+Type: 2-handed
+Usable by:
+  Yvette~
+@69   = ~Ioun of the Sealand~
+@70   = ~This is a stone that was found on Brynnlaw island by Yvette, a priestess of Sune. She decided to give to you as a present. The stone has a pale-blue color. It does not have any sharp edges. It is cold to the touch and has a salty scent that reminds you the morning breeze near the sea.
+
+STATISTICS:
+
+Equipped abilities:
+  20% cold resistance
+  +3 saving throw vs. magic bonus
+ 
+Weight: 1 lb
+Usable by:
+  Anyone~
+@71   = ~Chants of Sune~
+@72   = ~This book contains many chants sung by Heartwarders - priests of Sune, the Firehair. It is said that Lady of Beauty blesses the allies of Heartwarders when her priest sings any of these chants.
+
+STATISTICS:
+
+Special abilities:
+  Song of Sune: once per day, a Heartwarder is able to ask Sune for help by singing one of the chants. It provides the bless effect, raises allies' hit points by 10 and gives a +1 charisma bonus. The effect lasts 60 seconds
+
+Weight: 1 lb~
+@73   = ~Mirror of Truth~
+@74   = ~Look into me if you wish to leave this nightmare.~
+@75   = ~Gabriel's Journal~
+@76   = ~This is the journal of Gabriel - Yvette's friend who had become a Hopereaper and who we had to slay.~
+@77   = ~Coral Rose~
+@78   = ~This is a Coral-Lavender Rose that appeared after the disintegration of the Amber Rose that was given to you by Touch from the Deep Gardens. After you handed it to Yvette, the Amber colour faded away and was replaced with a Coral Lavender hue.
+
+STATISTICS:
+
+Equipped abilities:
+  +1 Charisma
+  Protection from poison and disease
+  Regenerates 1 HP every 10 seconds
+
+Usable by:
+  Yvette~
+@79   = ~Yvette's Bracelet~
+@80   = ~This black metal bracelet is always worn by Yvette. Although it lacks enchantment, she seems fond of it.~
+@81   = ~This black metal braclet is always worn by Yvette. Although it lacks enchantment, she seems fond of it.~
+@82   = ~Ribbon~
+@83   = ~This is a red ribbon made from some kind of soft material. It was a gift from Aerie to Yvette. It is not merely fashionable, but has some magical properties.
+
+STATISTICS:
+
+Equipped abilities:
+  +1 Luck
+  +1 save vs. spell bonus
+
+Usable by:
+  Yvette~
+@84   = ~Fighting the Fury~
+@85   = ~After their grand victory, Yvette managed to stay at CHARNAME's a little longer. Sune seemed to have heard the Heartwarder's prayers and let her stay with her beloved. For some time they adventured together, before a further, unexpected boon entered their lives. Yvette gave <CHARNAME> a son. Together they witnessed the newborn's laughter and tears. Then, after two years spent together, Yvette's suffering returned. This time it proved impossible to resist. However, she beseeched CHARNAME to remember Sune's mercy - she had granted their wish indeed; together, they had made the world a brighter place. One day all that remained of Yvette was a painting, similar to what she used to be, but with one very important difference. The quotation was altered - "For my <CHARNAME>, and our son".~
+@86   = ~After Yvette was abandoned by <CHARNAME> she didn't manage to survive much longer. She wept for days and nights, believing she had found, and lost, her only love. A week later she vanished. No one knows if Sune took her soul back, or she decided to start a new life somewhere else.~
+@87   = ~Sune's Mercy: Celestial Heartwarder~
+@88   = ~Yvette's Drawing~
+@89   = ~This is a copy of the portrait Yvette used to be. This one was drawn by Yvette herself to make sure you will never forget her face. There is one change - the dedication, which now says "For my <CHARNAME>".~
+@90   = ~Yvette's diary~
+@91   = ~This is a diary reflecting Yvette's thoughts. The last entry seems to be the longest.
+
+"I shouldn't have said those horrible words. He was always there, with me when I needed him. I don't know what I should do now. Is it the end? I wish I could stay here with my lord, but that thing will succeed to take my life next time. It will become stronger and I don't have the power to fight it.
+
+I wonder how it will look like... Will it hurt? Probably yes... If only could be somewhere else then. I think he really loves me and this may make him suffer - the sight of a dying Yvette. But on the other hand, I am glad that the last thing I will see is his face.
+
+I wonder if the place I will go to is the same place my little sister is. I would like to see her smile again, hear her laughter.
+
+So I will pass away, but will I become like Gabriel? No, that cannot be. We are different, but I still hope that death set him free. I prayed to Sune asking her to give him someone else, I asked her to redeem him. He wasn't a monster. It was grief and fate that changed him so much.
+
+I'm worried about <CHARNAME>. What will happen in the end of his adventure? I hope I will still be able to see this and help him with all my powers.
+
+I wish I had some more time... Sune, please - protect me and <CHARNAME>. Show us some mercy..."~
+@92   = ~Symbol of Sune~
+@93   = ~This is the symbol of lady Firehair. Only experienced priests may use it. This particular one belongs to the Heartwarder, Yvette Silverdove.
+
+STATISTICS:
+
+One additional 6th and 7th cleric spell
++5% magic resistance
+Grants immunity to non-magical cold
+
+Usable by:
+Yvette~
+@94   = ~Yvette's Reflexion~
+@95   = ~This mirror is made of Yvette's thoughts and memories. By using it, a companion will experience some part of all Yvette learned in her lifetime.
+
+Useable by:
+Anyone~
+@96   = ~Celestial Heartwarder~
+
+@98   = ~Dialogues options:
+Dash 1 to install original dialogues
+Dash 2 to install dialogues without action text/descriptions~
+// Unused @99
+@100  = ~Choose 1 or 2 and confirm by "enter"~
+@101  = ~Installing original dialogues~
+@102  = ~Installing dialogues with reduced action text and descriptions~
+@103  = ~Yvette Romance - alternative class (Pure Heartwarder)~
+@104  = ~We should run! Come! We have to leave this place immediatly!~ [Yvet001]
+@105  = ~I warn you, sir - give end to that behaviour!~ [Yvet004]
+@106  = ~I'm tired. Shouldn't we were looking for a place to rest?~ [Yvet007]
+@107  = ~For the beauty!~ [Yvet011]
+@108  = ~Isn't this place marvellous?~ [Yvet017]
+@109  = ~This place can't be safe one. Lady Firehair, keep your guard upon us.~ [Yvet019]
+@110  = ~Isn't it a fair day today? Lathander should be pround of it!~ [Yvet020]
+@111  = ~Claim it done!~ [Yvet028]
+@112  = ~Hey! I didn't know I can do that!~ [Yvet037]
+@113  = ~Yvette Romance - alternative portrait based on MichelO's art.~
