@@ -1,7 +1,7 @@
 BACKUP ~Yvette/backup~
 AUTHOR ~Lava Del'Vortel~
 
-VERSION ~4.1~
+VERSION ~5.0~
 
 README ~Yvette/translations/%LANGUAGE%/Readme.txt~ ~Yvette/Readme.txt~
 
@@ -95,18 +95,22 @@ DISADVANTAGES:
 COPY ~Yvette/kit/ga/YxLOR.spl~ ~override~
 SAY NAME1 @4 /* Lips of Rapture */
 SAY NAME2 @4 /* Lips of Rapture */
+SAY UNIDENTIFIED_DESC @3
 
 COPY ~Yvette/kit/ga/YxSKP.spl~ ~override~
 SAY NAME1 @5 /* Sune's Kiss Prayer */
 SAY NAME2 @5 /* Sune's Kiss Prayer */
+SAY UNIDENTIFIED_DESC @3
 
 COPY ~Yvette/kit/ga/YxSV.spl~ ~override~
 SAY NAME1 @6 /* Siren Voice */
 SAY NAME2 @6 /* Siren Voice */
+SAY UNIDENTIFIED_DESC @3
 
 COPY ~Yvette/kit/ga/YxEA.spl~ ~override~
 SAY NAME1 @7 /* Emotional Armour */
 SAY NAME2 @7 /* Emotional Armour */
+SAY UNIDENTIFIED_DESC @3
 
 COPY ~Yvette/kit/AP/YxDP.spl~ ~override~
 SAY NAME1 @8 /* Heartwarder suffers -1 damage penalty */
@@ -196,6 +200,7 @@ SAY NAME2 @58 /* Ssaro */
 COMPILE EVALUATE_BUFFER ~Yvette/Scripts/YxYve.baf~
         ~Yvette/Scripts/ARY002.baf~
         ~Yvette/Scripts/ARY003.baf~
+        ~Yvette/Scripts/yxgabr2.baf~
 
 EXTEND_TOP ~Baldur.bcs~ ~Yvette/Scripts/Player.baf~ EVALUATE_BUFFER
 EXTEND_TOP ~AR0700.bcs~ ~Yvette/Scripts/AR0700.baf~
@@ -329,7 +334,8 @@ SAY DESC@76 /* This is the journal of Gabriel - Yvette's friend who had become a
 COPY ~Yvette/Items/YxRose.itm~ ~override~
 SAY NAME1 @77 /* Coral Rose */
 SAY NAME2 @77 /* Coral Rose */
-SAY DESC@78 /* This is a Coral-Lavender Rose that appeared after the disintegration of the Amber Rose that was given to you by Touch from the Deep Gardens. After you handed it to Yvette, the Amber colour faded away and was replaced with a Coral Lavender hue.
+LPF CLONE_EFFECT INT_VAR match_opcode = 98 opcode = 142 parameter2 = 87 END // missing panic icon
+SAY DESC @78 /* This is a Coral-Lavender Rose that appeared after the disintegration of the Amber Rose that was given to you by Touch from the Deep Gardens. After you handed it to Yvette, the Amber colour faded away and was replaced with a Coral Lavender hue.
 
 STATISTICS:
 
@@ -404,6 +410,10 @@ END
 COPY ~Yvette/Spells/YxSTOP.spl~ ~override~
 SAY NAME1 @84 /* Fighting the Fury */
 SAY NAME2 @84 /* Fighting the Fury */
+
+COPY ~Yvette/Spells/yxtu2.spl~ ~override~
+SAY NAME1 ~~
+SAY NAME2 ~~
 
 //////////////////ADD SHOP ITEM
 
@@ -570,6 +580,7 @@ END
 /////////////////////////////////////////////////////
 
 BEGIN @103 /* Yvette Romance - alternative class (Pure Heartwarder) */
+REQUIRE_COMPONENT ~setup-yvette.tp2~ ~0~ ~Requires the main component.~
 
 COPY ~Yvette/AlterCre/YxYve1.cre~ ~override~
   SAY NAME1 @9 /* Yvette */
@@ -629,6 +640,7 @@ APPEND ~interdia.2da~
 
 ~YxYve YxYveB YxYv25B~
 
+/*
 
 /////////////////////////////////////////////////////
 ////////////////ALTERNATIVE PORTRAIT/////////////////
@@ -638,3 +650,5 @@ BEGIN @113 /* Yvette Romance - alternative portrait based on MichelO's art. */
 REQUIRE_PREDICATE NOT GAME_IS ~bg2ee eet~ ~~
 
 COPY ~Yvette/AlternativePortrait~ ~override~
+
+*/
