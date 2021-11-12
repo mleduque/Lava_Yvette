@@ -18,6 +18,8 @@ END
 //////////Yvette Appears
 
 IF
+!See([ENEMY])
+!AreaType(DUNGEON)
 Global("YvetteMatch","GLOBAL",1)
 Global("YvetteChange","GLOBAL",1)
 Global("YvetteRomanceActive","GLOBAL",1)
